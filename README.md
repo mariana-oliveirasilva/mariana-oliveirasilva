@@ -40,7 +40,7 @@
 ### 📫 Como me encontrar
 
 <p align="left">
-  <a href="www.linkedin.com/in/mariana-oliveira-b65bba3b8" target="_blank">
+  <a href="www.linkedin.com/in/mariana-oliveira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:marianaoliveirasilvacc@gmail.com">
