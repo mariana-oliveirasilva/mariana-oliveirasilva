@@ -7,7 +7,7 @@
 
 ---
 
-### 🎶 Sobre mim
+### ^0^ Sobre mim
 
 - 🎓 Estudante de **Ciência da Computação**
 - 💡 Interesse em **Engenharia de Dados**
@@ -32,8 +32,8 @@
 
 ### 🎯 Objetivos atuais
 
-- 🗄️ Estudar SQL e ferramentas de engenharia de dados (ETL, pipelines, bancos de dados)
-- 💼 Ganhar experiência profissional na área de tecnologia
+- Estudar SQL e ferramentas de engenharia de dados (ETL, pipelines, bancos de dados)
+- Ganhar experiência profissional na área de tecnologia
 
 ---
 
