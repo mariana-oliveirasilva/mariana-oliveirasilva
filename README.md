@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -30,14 +30,14 @@
 
 ---
 
-### 🎯 Objetivos atuais
+### Objetivos atuais
 
 - Estudar SQL e ferramentas de engenharia de dados (ETL, pipelines, bancos de dados)
 - Ganhar experiência profissional na área de tecnologia
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Onde me encontrar
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mariana-oliveira-b65bba3b8/" target="_blank">
